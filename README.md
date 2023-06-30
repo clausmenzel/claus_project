@@ -5,3 +5,5 @@
 Author: Claus
 
 My *awesome* project.
+
+Ich wünsche dir ein schönes Wochenende!
